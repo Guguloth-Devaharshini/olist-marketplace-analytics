@@ -105,3 +105,8 @@ Business Insights
 
 **Venkata Sai Reddy**
 
+
+## Project Credits
+
+Original project author: venkatasai0604
+Repository owner and maintainer: Guguloth-Devaharshini
